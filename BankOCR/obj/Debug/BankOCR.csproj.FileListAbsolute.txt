@@ -1,0 +1,5 @@
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCR\bin\Debug\BankOCR.dll
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCR\bin\Debug\BankOCR.pdb
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCR\obj\Debug\ResolveAssemblyReference.cache
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCR\obj\Debug\BankOCR.dll
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCR\obj\Debug\BankOCR.pdb

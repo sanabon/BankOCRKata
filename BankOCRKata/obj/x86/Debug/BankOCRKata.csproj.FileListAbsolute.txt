@@ -1,0 +1,9 @@
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRKata\bin\Debug\UseCase3.txt
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRKata\bin\Debug\UseCase1.txt
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRKata\bin\Debug\BankOCRKata.exe
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRKata\bin\Debug\BankOCRKata.pdb
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRKata\bin\Debug\BankOCR.dll
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRKata\bin\Debug\BankOCR.pdb
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRKata\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRKata\obj\x86\Debug\BankOCRKata.exe
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRKata\obj\x86\Debug\BankOCRKata.pdb

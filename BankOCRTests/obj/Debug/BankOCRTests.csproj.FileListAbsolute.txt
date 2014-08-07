@@ -1,0 +1,15 @@
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\BankOCRTests.dll
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\BankOCRTests.pdb
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\BankOCR.dll
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\FluentAssertions.Core.dll
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\FluentAssertions.dll
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\nunit.framework.dll
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\BankOCR.pdb
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\FluentAssertions.pdb
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\FluentAssertions.xml
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\FluentAssertions.Core.pdb
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\FluentAssertions.Core.xml
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\bin\Debug\nunit.framework.xml
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\obj\Debug\BankOCRTests.dll
+c:\users\oromankova\documents\visual studio 2010\Projects\BankOCRKata\BankOCRTests\obj\Debug\BankOCRTests.pdb
